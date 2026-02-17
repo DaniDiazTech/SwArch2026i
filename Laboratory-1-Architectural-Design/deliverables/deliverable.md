@@ -30,7 +30,8 @@ The system has a simple user interface that allows users to interact with course
 
 ### 4. Portability (quality property)
 
-The system can be ported to any machine that supports Docker and Docker compose.
+The system supports deployment across different execution environments without requiring code modification.
+
 
 ### 5. Creation, Reading and Deletion of grades (externally visible behavior)
 
