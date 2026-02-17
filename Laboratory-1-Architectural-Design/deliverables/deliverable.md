@@ -32,7 +32,6 @@ The system has a simple user interface that allows users to interact with course
 
 The system supports deployment across different execution environments without requiring code modification.
 
-
 ### 5. Creation, Reading and Deletion of grades (externally visible behavior)
 
 The system allows for the creation, listing (reading), and deleting of grades. Note that it doesn't offer a full CRUD because there's no way for users to update grades.
