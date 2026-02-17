@@ -30,7 +30,7 @@ The system has a simple user interface that allows users to interact with course
 
 ### 4. Portability (quality property)
 
-The system supports deployment across different execution environments without requiring code modification.
+The system runs across different execution environments without requiring code modification.
 
 ### 5. Creation, Reading and Deletion of grades (externally visible behavior)
 
